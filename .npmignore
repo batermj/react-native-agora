@@ -34,3 +34,4 @@ proguard-rules.pro
 .settings
 .vscode
 package-lock.json
+src
